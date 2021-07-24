@@ -89,3 +89,8 @@ lerna-debug.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# Dependency directory
+node_modules
+cypress/videos
+cypress/screenshots
