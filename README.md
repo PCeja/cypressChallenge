@@ -4,5 +4,5 @@
 
 
 <h3 align="center">
-  Cypress challenge with navigations, assets, and key simulations
+  Cypress antipattern example with navigations, assets, and key simulations.
 </h3>
